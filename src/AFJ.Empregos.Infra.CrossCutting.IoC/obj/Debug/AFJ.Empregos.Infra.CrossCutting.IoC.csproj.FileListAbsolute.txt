@@ -31,3 +31,36 @@ C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ
 C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.csproj.CopyComplete
 C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.dll
 C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.dll.config
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Application.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Application.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Infra.Data.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AFJ.Empregos.Infra.Data.dll.config
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Infra.CrossCutting.IoC\obj\Debug\AFJ.Empregos.Infra.CrossCutting.IoC.pdb

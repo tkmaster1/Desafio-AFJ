@@ -32,3 +32,20 @@ C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ
 C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.csproj.CopyComplete
 C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.dll
 C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Application.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Application.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AutoMapper.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\EntityFramework.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Infra.Data.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AFJ.Empregos.Infra.Data.dll.config
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AutoMapper.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\AutoMapper.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\bin\Debug\EntityFramework.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.csprojAssemblyReference.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.csproj.CopyComplete
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio-AFJ\src\AFJ.Empregos.Application\obj\Debug\AFJ.Empregos.Application.pdb
