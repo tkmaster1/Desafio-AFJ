@@ -1,0 +1,10 @@
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\bin\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\bin\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Empregos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Domain\bin\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Domain\bin\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Domain\obj\Debug\AFJ.Empregos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Domain\obj\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Domain\obj\Debug\AFJ.Empregos.Domain.pdb

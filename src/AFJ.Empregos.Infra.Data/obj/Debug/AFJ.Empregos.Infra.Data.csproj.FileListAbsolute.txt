@@ -1,0 +1,44 @@
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\AFJ.Empregos.Infra.Data.dll.config
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\AFJ.Empregos.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\AFJ.Empregos.Infra.Data.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csprojAssemblyReference.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.Migrations.DefaultConnectionv1.resources
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csproj.GenerateResource.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csproj.CopyComplete
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\AFJ.Empregos.Infra.Data.dll.config
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\AFJ.Empregos.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\AFJ.Empregos.Infra.Data.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\AFJ.Empregos.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\AFJ.Empregos.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csprojAssemblyReference.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.Migrations.DefaultConnectionv1.resources
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csproj.GenerateResource.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.csproj.CopyComplete
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Projetos GIT HUB\Desafio AFJ Empregos\src\AFJ.Empregos.Infra.Data\obj\Debug\AFJ.Empregos.Infra.Data.pdb

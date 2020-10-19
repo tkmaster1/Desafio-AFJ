@@ -1,0 +1,6 @@
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\bin\Debug\AFJ.Teste.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\bin\Debug\AFJ.Teste.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Teste.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Teste.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Domain\obj\Debug\AFJ.Teste.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Application.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Application.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Domain.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Infra.Data.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AutoMapper.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\EntityFramework.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Domain.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Infra.Data.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AFJ.Teste.Infra.Data.dll.config
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AutoMapper.pdb
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\AutoMapper.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\bin\Debug\EntityFramework.xml
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\obj\Debug\AFJ.Teste.Application.csprojAssemblyReference.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\obj\Debug\AFJ.Teste.Application.csproj.CoreCompileInputs.cache
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\obj\Debug\AFJ.Teste.Application.csproj.CopyComplete
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\obj\Debug\AFJ.Teste.Application.dll
+C:\Users\tkmas\OneDrive\Documentos\Exemplos de Projetos\Teste\src\AFJ.Teste.Application\obj\Debug\AFJ.Teste.Application.pdb
