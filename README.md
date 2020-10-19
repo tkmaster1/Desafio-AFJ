@@ -1,6 +1,9 @@
 # Desafio-AFJ
  Projeto de teste Web API
  
+ Tecnologias utilizadas:
+	- AutoMapper, SimpleInjector, Web API in C#, Modelagem em DDD.
+ 
  Foi criado um CRUD para as 4 tabelas prevista no projeto.
 Com um Funcionalidade de consulta no Plano de telefonia.
 	- Plano
